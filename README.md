@@ -20,9 +20,6 @@ This project demonstrates how automation can be used to create intelligent assis
 
 JARVIS/ │ ├── assist_function.py # Core assistant functionalities ├── recog_face.py # Facial recognition module ├── GUI.py # GUI window and event management ├── hindisound.mp3 # Voice audio feedback ├── pitchShifted.wav # Alternate audio response ├── requirements.txt # Python dependencies └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
