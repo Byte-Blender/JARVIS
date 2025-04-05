@@ -2,7 +2,7 @@
 
 JARVIS (Just A Rather Very Intelligent System) is a Python-powered desktop assistant inspired by Iron Man's iconic AI system. It integrates facial recognition, voice feedback, and an interactive graphical user interface to create a basic but functional personal assistant.
 
-This project demonstrates how machine learning and automation can be used to create intelligent assistants with user-friendly features and modular components.
+This project demonstrates how automation can be used to create intelligent assistants with user-friendly features and modular components.
 
 ---
 
